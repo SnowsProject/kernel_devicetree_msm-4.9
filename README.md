@@ -1,5 +1,4 @@
 # kernel_devicetree_xiaomi-msm8953v2
-================================================================
 
 ## Included devices
 
